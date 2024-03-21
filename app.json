@@ -8,8 +8,8 @@
         "bot"
     ],
     "repository": "Damantha126/PyroFilesStoreBot-OLD",
-    "website": "https:damantha.ga,
-    "success_url": "https://t.me/ankivectorUpdates",
+    "website": "https:blionrie.me,
+    "success_url": "https://t.me/Blionriebin",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
@@ -48,7 +48,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
